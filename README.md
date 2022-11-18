@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning new programming languages <br>👯 I’m looking to collaborate on new and exciting projects <br>🤝 I’m looking for help with solving leetcode questions<br>🌱 I’m currently learning Python, React, MongoDB, and Springboot <br>💬 Ask me about anime, fitness and <br>⚡ Fun fact my favorite anime is One Piece
+🔭 I’m currently working on learning new programming languages <br>👯 I’m looking to collaborate on new and exciting projects <br>🤝 I’m looking for help with solving leetcode questions<br>🌱 I’m currently learning Python, React, MongoDB, and Springboot <br>💬 Ask me about anime, fitness and Java <br>⚡ Fun fact my favorite anime is One Piece
 
 
 ## 🌐 Socials:
